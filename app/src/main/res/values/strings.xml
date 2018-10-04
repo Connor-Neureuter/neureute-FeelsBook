@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">neureute-FeelsBook</string>
+    <string name="love_button">Love</string>
+    <string name="anger_button">Anger</string>
+    <string name="joy_button">Joy</string>
+    <string name="surprise_button">Surprise</string>
+    <string name="fear_button">Fear</string>
+    <string name="sadness_button">Sadness</string>
+    <string name="anger_comment">Enter Comment</string>
+    <string name="joy_comment">Enter Comment</string>
+    <string name="love_comment">Enter Comment</string>
+    <string name="fear_comment">Enter Comment</string>
+    <string name="sadness_comment">Enter Comment</string>
+    <string name="surprise_comment">Enter Comment</string>
+    <string name="history_button">View History</string>
+</resources>
